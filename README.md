@@ -1,10 +1,10 @@
-# Hey there! 👋 I'm Indraan S Toor
+# Hi! I'm Indraan 👋 
 
 <img width="1834" alt="Make your README" src="https://github.com/indraantoor/indraantoor/assets/64259328/4698f22b-24ac-4952-a48e-265221893c7c">
 
 Fullstack Developer | Open Source Contributor | Web Performance & Security Specialist
 
-Welcome to my GitHub profile! I'm on a mission to craft blazing-fast, secure, and visually stunning web experiences. With a strong foundation in frontend development and a knack for SEO strategies, I've honed my skills in optimizing performance and fortifying security to create top-notch digital solutions.
+Welcome to my GitHub profile! I'm on a mission to craft blazing-fast, secure, and visually stunning web experiences. With a **strong foundation in frontend development** and a knack for SEO strategies, I've honed my skills in optimizing performance and fortifying security to create top-notch digital solutions.
 
 ## 🛠️ Technical Toolbox
 **Languages:** JavaScript, TypeScript, HTML, CSS, C++, Python, Ruby  
