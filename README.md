@@ -4,13 +4,19 @@ Fullstack Developer | Open Source Contributor | Web Performance & Security Speci
 
 Welcome to my GitHub profile! I'm on a mission to craft blazing-fast, secure, and visually stunning web experiences. With a strong foundation in frontend development and a knack for SEO strategies, I've honed my skills in optimizing performance and fortifying security to create top-notch digital solutions.
 
-## 🚀 Technologies & Tools
-
+## 🛠️ Technical Toolbox
 **Languages:** JavaScript, TypeScript, HTML, CSS, C++, Python, Ruby  
-**Frontend:** React.js, Next.js, Redux, Material UI, Chakra UI, Bootstrap, Tailwind CSS, Gatsby, React Testing Library, Framer Motion  
-**Backend:** Node.js, Express.js, Ruby On Rails, JEST, Cypress  
-**Databases:** MongoDB, SQL, PostgreSQL, Memcached, Redis  
-**Cloud & DevOps:** AWS, Docker, Webpack, Firebase  
+
+**Frontend:** React.js, Next.js, Gatsby, Redux, Material UI, Chakra UI, Tailwind CSS, Bootstrap, Ant Design, Styled Components, Emotion, Sass, React Query, React Hook Forms, Formik, React Table, Framer Motion (CSS Animations), React Router, React Testing Library, JEST, Cypress
+
+**Backend:** Node.js, Express.js, Ruby On Rails
+
+**Databases:** MongoDB, SQL, PostgreSQL, MySQL, Memcached, Redis
+
+**Cloud & DevOps:** AWS, Docker, Webpack, Firebase, Firestore, Heroku, Netlify
+
+**Tools & Technologies:** AWS (Amazon Web Services), NPM, Yarn, Webpack, Parcel Bundler, Docker, WordPress, Git, GitHub, OAuth
+
 **Blockchain:** Solidity, Hardhat, Ethers.js, Metamask
 
 ## 💡 Skills & Expertise
