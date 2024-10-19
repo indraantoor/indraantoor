@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm on a mission to craft blazing-fast, secure, an
 
 **Cloud & DevOps:** AWS, Docker, Webpack, Firebase, Firestore, Heroku, Netlify
 
-**Tools & Technologies:** AWS (Amazon Web Services), NPM, Yarn, Webpack, Parcel Bundler, Docker, WordPress, Git, GitHub, OAuth, Figma
+**Tools & Technologies:** AWS (Amazon Web Services), NPM, Yarn, Webpack, Parcel Bundler, Docker, WordPress, Git, GitHub, OAuth, Figma, Open AI Api
 
 **Blockchain:** Solidity, Hardhat, Ethers.js, Metamask
 
