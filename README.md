@@ -34,8 +34,10 @@ Welcome to my GitHub profile! I'm on a mission to craft blazing-fast, secure, an
 
 ## 🌱 Recent Projects
 
-- [Ecommerce Web Application - Fullstack (MERN)](https://github.com/indraantoor/Ecommerce-App): A place where you can buy and sell any items related to clothes, accessories and much more while earning money from it at one place. It has all the features to help you keep looking the best version of yourself always.
+- [Chat PDF AI](https://github.com/indraantoor/Chat-PDF-AI): Chat with PDFs using AI like ChatGPT that remembers previous interactions for personalized and seamless answers anytime, anywhere.
 - [Media AI](https://github.com/indraantoor/Media-AI): Media AI is a tool designed to simplify the process of editing images and videos using artificial intelligence. It offers functionalities for images and videos, making media editing faster and more efficient.
+- [Contract AI](https://github.com/indraantoor/Contract-AI-Frontend): It quickly identifies risks, enhances compliance, and offers insights for faster negotiation using AI.
+- [Ecommerce Web Application - Fullstack (MERN)](https://github.com/indraantoor/Ecommerce-App): A place where you can buy and sell any items related to clothes, accessories and much more while earning money from it at one place. It has all the features to help you keep looking the best version of yourself always.
 - [Years Of Experience](https://github.com/indraantoor/Years-Of-Experience): A platform that redefines the way we present ourselves professionally. In a world where traditional resumes can be limiting. Also works in **offline (no internet) mode** using service workers.
 - [NFT Minter](https://github.com/indraantoor/Nft-minter): BSC NFT Minting App – your gateway to creating and minting unique digital assets on the Binance Smart Chain Testnet. This application harnesses the power of Solidity, Ethers, Hardhat, and Metamask to bring the world of non-fungible tokens (NFTs) to the decentralized realm of Binance Smart Chain. 
 
